@@ -1,4 +1,6 @@
 Hi
 
-I am practice git
+I am practicing git
+
+"edited this file"
 	
